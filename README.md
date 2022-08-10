@@ -1,3 +1,3 @@
 # Learning Git 
 
-Wanted to learn GIT so I can be a cool kid!
+Wanted to learn GIT so I can be a cool kid! non- master branch
